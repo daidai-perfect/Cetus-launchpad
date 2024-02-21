@@ -1,0 +1,1 @@
+import{_ as t}from"./nuxt-link.f732d4b9.js";import{e as o,o as n,f as a,i as c,w as r,j as s}from"./entry.99d20ac2.js";const _={};function f(m,i){const e=t;return n(),a("div",null,[c(e,{to:"/farms"},{default:r(()=>[s("swap")]),_:1})])}const d=o(_,[["render",f]]);export{d as default};
