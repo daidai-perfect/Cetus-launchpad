@@ -1,1 +1,0 @@
-import{r as a,C as c}from"./entry.245dc163.js";function l(u,n=1e3){const e=a(null),o=(...t)=>{e.value&&clearTimeout(e.value),e.value=setTimeout(()=>{u(...t)},n)};return c(()=>{e.value&&clearTimeout(e.value)}),o}export{l as u};
