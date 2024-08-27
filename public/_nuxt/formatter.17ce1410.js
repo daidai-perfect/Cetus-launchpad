@@ -1,1 +1,0 @@
-import"./decimal.0bdeb344.js";import{b as $,d as i,h as o}from"./index.42df0035.js";function a(t,r="$",n=2){const f=Math.pow(10,-n);return o(t).gt(0)&&o(t).lt(f)?r==="%"?`<${f}${r}`:`<${r}${f}`:r==="%"?`${$(i(t,n))}${r}`:`${r}${$(i(t,n))}`}function p(t,r=2,n=!0){return n?$(i(t,r)):i(t,r)}export{p as f,a as s};
