@@ -1,1 +1,0 @@
-import{a as t,o as a,f as o,h as s,x as _,e as n}from"./entry.a28c3c26.js";const c={class:"no-data"},r=["src"],p=t({__name:"sui-no-data",props:{url:{},text:{}},setup(l){return(e,d)=>(a(),o("div",c,[s("img",{src:e.url,alt:""},null,8,r),s("span",null,_(e.text),1)]))}});const u=n(p,[["__scopeId","data-v-e20cf40d"]]);export{u as S};
