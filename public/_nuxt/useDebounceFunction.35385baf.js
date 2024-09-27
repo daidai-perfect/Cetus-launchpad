@@ -1,0 +1,1 @@
+import{r as a,E as c}from"./entry.b7ba11e8.js";function l(u,n=1e3){const e=a(null),o=(...t)=>{e.value&&clearTimeout(e.value),e.value=setTimeout(()=>{u(...t)},n)};return c(()=>{e.value&&clearTimeout(e.value)}),o}export{l as u};
