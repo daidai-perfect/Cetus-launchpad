@@ -28,3 +28,4 @@ function R(e,n){if(!!!e)throw new Error(n)}const C={Name:[],Document:["definitio
 }`)}function r(e,n,i=""){return n!=null&&n!==""?e+n+i:""}function D(e){return r("  ",e.replace(/\n/g,`
   `))}function L(e){var n;return(n=e==null?void 0:e.some(i=>i.includes(`
 `)))!==null&&n!==void 0?n:!1}export{ne as p};
+//# sourceMappingURL=graphql-Hq5qrITd.js.map

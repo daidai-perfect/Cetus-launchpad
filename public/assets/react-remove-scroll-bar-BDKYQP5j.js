@@ -36,3 +36,4 @@ import{r as s}from"./react-CzOuvL1l.js";import{s as f}from"./react-style-singlet
     `).concat(h,": ").concat(a,`px;
   }
 `)},u=function(){var n=parseInt(document.body.getAttribute(c)||"0",10);return isFinite(n)?n:0},S=function(){s.useEffect(function(){return document.body.setAttribute(c,(u()+1).toString()),function(){var n=u()-1;n<=0?document.body.removeAttribute(c):document.body.setAttribute(c,n.toString())}},[])},A=function(n){var r=n.noRelative,o=n.noImportant,t=n.gapMode,e=t===void 0?"margin":t;S();var i=s.useMemo(function(){return y(e)},[e]);return s.createElement(w,{styles:x(i,!r,e,o?"":"!important")})};export{A as R,g as f,d as z};
+//# sourceMappingURL=react-remove-scroll-bar-BDKYQP5j.js.map

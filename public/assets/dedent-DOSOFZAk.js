@@ -2,3 +2,4 @@ function s(e,t){var r=Object.keys(e);if(Object.getOwnPropertySymbols){var n=Obje
 `);let f=null;for(const c of p){const i=c.match(/^(\s+)\S+/);if(i){const u=i[1].length;f?f=Math.min(f,u):f=u}}if(f!==null){const c=f;o=p.map(i=>i[0]===" "||i[0]==="	"?i.slice(c):i).join(`
 `)}return o=o.trim(),a&&(o=o.replace(/\\n/g,`
 `)),o}}export{d};
+//# sourceMappingURL=dedent-DOSOFZAk.js.map
