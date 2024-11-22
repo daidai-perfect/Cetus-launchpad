@@ -1,0 +1,1 @@
+import{r}from"./react-CzOuvL1l.js";function f({interval:e,callback:n}){const t=r.useRef();r.useEffect(()=>{t.current=n},[n]),r.useEffect(()=>{function c(){t.current&&t.current(Date.now())}if(e>0){const s=setInterval(c,e);return()=>clearInterval(s)}},[e])}export{f as u};
