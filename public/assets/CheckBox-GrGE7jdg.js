@@ -1,2 +1,0 @@
-import{j as r}from"./react-0TgaKalq.js";import{I as s}from"./App-CT7q3VO5.js";import{F as d}from"./@chakra-ui-CskBC50f.js";function l(o){const{checked:e,width:i,height:t,borderRadius:n,onClick:c}=o;return r.jsx(d,{align:"center",justifyContent:"center",background:"checked_bg",border:"1px solid",borderColor:"border",cursor:"pointer",width:i||"20px",height:t||"20px",borderRadius:n||"4px",onClick:c,sx:{svg:{fill:"primary !important"}},children:e?r.jsx(s,{xlinkHref:"#icon-icon_check"}):null})}export{l as C};
-//# sourceMappingURL=CheckBox-GrGE7jdg.js.map

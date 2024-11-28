@@ -1,0 +1,2 @@
+import{j as p}from"./react-Aj3Or4uT.js";import"./@cetusprotocol-BCbuc-3G.js";import"./bn.js-BNGtCXv0.js";import{T as x}from"./App-BKshXW9n.js";import"./numbro-CIOqy2Zx.js";const f=({tokenDetail:r,haveTooltip:m=!0,...s})=>p.jsxs(x,{haveTooltip:m,...s,children:[r==null?void 0:r.name," ",r!=null&&r.symbol?`(${r==null?void 0:r.symbol})`:""]});export{f as N};
+//# sourceMappingURL=NameSymbolBlock-CAAUOpSd.js.map
