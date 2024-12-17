@@ -1,1 +1,0 @@
-import{r,y as s,D as d}from"./entry.861a8669.js";function u(t,n){let e;return function(){const i=arguments,o=this;e||(t.apply(o,i),e=!0,setTimeout(()=>e=!1,n))}}function w(){const t=r(window.innerWidth),n=u(()=>{t.value=window.innerWidth},0);return s(()=>{window.addEventListener("resize",n)}),d(()=>{window.removeEventListener("resize",n)}),{windowWidth:t}}export{w as u};
