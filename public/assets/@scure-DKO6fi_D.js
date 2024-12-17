@@ -1,2 +1,0 @@
-import{p as i,s as t}from"./@noble-BT08eZsa.js";/*! scure-bip39 - MIT License (c) 2022 Patricio Palladino, Paul Miller (paulmillr.com) */function r(n){if(typeof n!="string")throw new TypeError("invalid mnemonic type: "+typeof n);return n.normalize("NFKD")}function m(n){const o=r(n),e=o.split(" ");if(![12,15,18,21,24].includes(e.length))throw new Error("Invalid mnemonic");return{nfkd:o,words:e}}const c=n=>r("mnemonic"+n);function s(n,o=""){return i(t,m(n).nfkd,c(o),{c:2048,dkLen:64})}export{s as m};
-//# sourceMappingURL=@scure-DKO6fi_D.js.map

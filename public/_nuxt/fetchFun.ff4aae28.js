@@ -1,0 +1,1 @@
+const l=async function(c,n){const s=[];let e="";if(n){for(const t in n){const f=`${t}=${n[t]}`;s.push(f)}const o=s.join("&");e=`${c}?${o}`}else e=c;return fetch(e).then(async o=>{const t=await o.json();return console.log("fetchGet###result###",t),(t==null?void 0:t.data)||t})};export{l as f};

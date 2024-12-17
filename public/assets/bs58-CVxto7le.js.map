@@ -1,1 +1,0 @@
-{"version":3,"file":"bs58-CVxto7le.js","sources":["../../../../node_modules/bs58/src/esm/index.js"],"sourcesContent":["import basex from 'base-x';\nvar ALPHABET = '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz';\nexport default basex(ALPHABET);\n"],"names":["ALPHABET","basex"],"mappings":"yCACA,IAAIA,EAAW,6DACf,MAAeC,EAAAA,EAAMD,CAAQ","x_google_ignoreList":[0]}
